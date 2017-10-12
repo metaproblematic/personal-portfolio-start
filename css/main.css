@@ -1,0 +1,11 @@
+body {
+    font-family: "Goudy Old Style", "Book Antiqua", serif;
+    background-image: url("https://images.pexels.com/photos/112432/pexels-photo-112432.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb"); 
+    background-size: cover;
+    color: linen;
+    display: inline-block;
+top: 40%;
+position: absolute;
+transform: translateY(-50%) translateX(-50%);
+left: 50%
+}
